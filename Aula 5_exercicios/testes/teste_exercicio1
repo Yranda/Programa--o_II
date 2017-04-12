@@ -1,0 +1,12 @@
+idades = []
+
+alturas = []
+
+i = eval(input("Digite a idade:"))
+idades.append(i)
+print(idades)
+
+a = eval(input("Digite a altura:"))
+alturas.append(a)
+print(alturas)
+
